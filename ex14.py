@@ -10,5 +10,6 @@ list1 = ['Nate', 'Sujan', 'Jeff', 'Nate', 'Sujan']
 def setFromList(list):
     return set(list)
 
+print(list1)
 print(convertList(list1))
 print(setFromList(list1))
